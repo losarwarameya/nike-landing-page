@@ -1,8 +1,12 @@
-# React + Vite
+# Nike Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the source code for a web application created using React and styled with Tailwind CSS. The project is designed to serve as a starter template or showcase for building modern, responsive web applications with these technologies.
 
-Currently, two official plugins are available:
+## Demo
+You can see the live demo of the website [here](https://nike-webpage.netlify.app/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+* React: The project is built using React, a popular JavaScript library for building user interfaces.
+* Tailwind CSS: Tailwind CSS is used for styling, allowing for easy customization and rapid development of responsive designs.
+* Modular Components: The project is structured using modular components, making it easy to understand, extend, and maintain.
+* Responsive Design: The webpage is designed to be responsive and work seamlessly across different devices and screen sizes.
